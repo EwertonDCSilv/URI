@@ -1,0 +1,229 @@
+############### TESTE 1 ###############
+    ############### Resultaso 1 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 2 ###############
+    ############### Resultaso 2 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 3 ###############
+    ############### Resultaso 3 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 4 ###############
+    ############### Resultaso 4 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 5 ###############
+    ############### Resultaso 5 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 6 ###############
+    ############### Resultaso 6 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 7 ###############
+    ############### Resultaso 7 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 8 ###############
+    ############### Resultaso 8 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 9 ###############
+    ############### Resultaso 9 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 10 ###############
+    ############### Resultaso 10 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 11 ###############
+    ############### Resultaso 11 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 12 ###############
+    ############### Resultaso 12 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 13 ###############
+    ############### Resultaso 13 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 14 ###############
+    ############### Resultaso 14 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 15 ###############
+    ############### Resultaso 15 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+############### TESTE 16 ###############
+    ############### Resultaso 16 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 17 ###############
+    ############### Resultaso 17 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 18 ###############
+    ############### Resultaso 18 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 19 ###############
+    ############### Resultaso 19 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 20 ###############
+    ############### Resultaso 20 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 21 ###############
+    ############### Resultaso 21 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 22 ###############
+    ############### Resultaso 22 ########
+
+	Analisando arquivos ...
+
+	Arquivos identicos
+
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 23 ###############
+    ############### Resultaso 23 ########
+Erro na abertura do primeiro arquivo!
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 24 ###############
+    ############### Resultaso 24 ########
+Erro na abertura do primeiro arquivo!
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 25 ###############
+    ############### Resultaso 25 ########
+Erro na abertura do primeiro arquivo!
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
+############### TESTE 26 ###############
+    ############### Resultaso 26 ########
+Erro na abertura do primeiro arquivo!
+#########################################
+
+Deseja finalizar o arquivo em lotes (S/N)? 
