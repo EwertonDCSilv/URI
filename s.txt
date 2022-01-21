@@ -1,2 +1,0 @@
-Area = 10.0
-Perimetro = 12.1
